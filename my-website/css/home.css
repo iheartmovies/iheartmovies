@@ -181,7 +181,7 @@
   }
 
   .modal-body img {
-    width: 80%;
+    width: 30%;
   }
 
   .modal-text {
@@ -225,7 +225,7 @@
   }
 
   .modal-body img {
-    width: 90%;
+    width: 30%;
   }
 
   .search-modal .close {
@@ -274,7 +274,7 @@
   }
 
   .footer-links {
-    flex-direction: column;
+    flex-direction: row;
     gap: 8px;
   }
 }
