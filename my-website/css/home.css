@@ -3,11 +3,11 @@
 
     .navbar {
       display: flex; justify-content: space-between; align-items: center;
-      padding: 15px; background: #222;
+      padding: 10px; background: #222;
     }
 
     .navbar img { height: 40px; }
-    .nav-links { display: flex; align-items: center; gap: 15px; }
+    .nav-links { display: flex; align-items: center; gap: 10px; }
     .nav-links a { color: white; text-decoration: none; margin: 0 5px; }
 
     .search-bar {
