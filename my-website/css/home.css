@@ -174,13 +174,13 @@
   .search-bar {
     margin-top: 10px;
   }
-
+  
   .modal-body {
     align-items: center;
   }
 
   .modal-body img {
-    width: 30%;
+    width: 50%;
   }
 
   .modal-text {
