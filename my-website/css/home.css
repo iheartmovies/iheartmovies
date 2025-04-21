@@ -156,12 +156,12 @@
 /* MOBILE DISPLAY START */
 @media (max-width: 768px) {
   .navbar {
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
   }
 
   .nav-links {
-    flex-direction: column;
+    flex-direction: row;
     width: 100%;
     gap: 10px;
     margin-top: 10px;
