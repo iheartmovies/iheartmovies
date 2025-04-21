@@ -206,7 +206,7 @@
   }
 
   .search-modal .results {
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
