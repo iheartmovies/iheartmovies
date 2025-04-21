@@ -174,7 +174,11 @@
   .search-bar {
     margin-top: 10px;
   }
-  
+
+  .banner {
+      height: 30vh;
+  }
+    
   .modal-body {
     align-items: center;
   }
